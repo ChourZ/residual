@@ -22,8 +22,6 @@
 # In[1]:
 
 
-from IPython.display import Image
-Image('images/06_network_flowchart.png')
 
 
 # ## Imports
